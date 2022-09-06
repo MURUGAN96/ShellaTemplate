@@ -1,0 +1,172 @@
+.notification, .navbar{
+  padding: 0px;
+}
+
+a{
+  color: #1a1a1a;
+}
+
+.notification{
+  color: #ffffff;
+  background-color: #1a1a1a;
+  text-align: center;
+  height: 22px;
+  font-size: 11px;
+}
+
+.lazy-img {
+  filter: blur(10px);
+}
+
+.panel-body{
+  padding: 0px;
+}
+
+.logo-bar{
+  margin-top: 10px;
+}
+
+svg{
+  width: 64px;
+  height: 27px;
+  padding-left: 15px;
+}
+
+.alert-noti{
+  color: #ffffff;
+  background-color: #ff1a1a;
+  font-size: 10px;
+}
+
+.navbar{
+  background-color: #ffffff;
+  border: none;
+  margin-bottom: 0px;
+}
+
+.navbar-nav{
+  font-size: 11px;
+}
+
+.search-icon{
+  float: right;
+  padding: 15px;
+
+}
+.search-icon i{
+  margin-left: 10px;
+}
+
+.product-img{
+  height: 505px;
+  width: 1300px;
+}
+
+.product-header, .pdp-pt1, .pt-main-ele{
+  position: relative;
+  display: inline;
+}
+.product-detail-display{
+  position: absolute;
+  left: 501px;
+  top: 110px;
+  color: #1a1a1a;
+  text-align: center;
+}
+
+.product-detail-display span{
+  font-size: 35px;
+}
+
+.product-detail-display button{
+  background-color: #1a1a1a;
+  border-radius: 0;
+  border-color: #1a1a1a;
+  width: 150px;
+}
+
+.product-title{
+  padding-left: 35px;
+  padding-right: 35px;
+  margin-bottom: 50px;
+}
+
+.product-title img{
+  margin-bottom: 5px;
+}
+
+.product-title button{
+  border-radius: 0%;
+  background-color: #ffffff;
+  color: #1a1a1a;
+  min-width: 75px;
+}
+
+.product-detail{
+  padding: 38px;
+}
+
+.page-indicators i{
+  margin-right: 5px;
+}
+
+.women-pd1, .men-pd1, .acc-pd1{
+  position: relative;
+  display: inline;
+}
+
+.title-women, .title-men, .title-acc{
+  position: absolute;
+  bottom: 15px;
+  left: 55px;
+}
+
+.product-detail button{
+  width:279px;
+  opacity: 0.7;
+}
+
+.pdp-pt2{
+  position: absolute;
+  left: 200px;
+  top: 150px;
+  color: #1a1a1a;
+  text-align: center;
+}
+
+.product-template{
+  margin-bottom: 20px;
+}
+
+.pdp-pt2 button{
+  background-color: #1a1a1a;
+  border-radius: 0;
+  border-color: #1a1a1a;
+  width: 150px;
+}
+
+.pt-override-ele{
+  position: absolute;
+  top: 10px;
+  left: 8px;
+  background-color: #ff1a1a;
+  color: #ffffff;
+  padding: 5px;
+  text-align: center;
+  opacity: 0.8;
+}
+
+.product-tab{
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.product-tab span{
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.pt-description button, .pt-description i{
+  margin-right: 10px;
+  margin-top: 5px;
+}
